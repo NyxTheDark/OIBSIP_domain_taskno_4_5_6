@@ -2,7 +2,8 @@
 
 ## Overview
 
-This repository contains a comprehensive research report on common network security threats, created as part of OASIS InfoByte internship (Domain Task #4). The report examines various types of network security threats, their impacts, and mitigation strategies.
+This folder contains the detailed report on Network security threats and their prevention,
+while this file contais the summary of entire report with key giveaways.
 
 ## Repository Contents
 
@@ -40,52 +41,10 @@ This repository contains a comprehensive research report on common network secur
    - Target Point-of-Sale Attack (2013)
    - SolarWinds Supply Chain Attack (2020)
 
-### Key Features
-
-- **Comprehensive Analysis**: Each threat type includes definition, methodology, impact, and mitigation
-- **Real-World Examples**: Documented case studies with lessons learned
-- **Practical Solutions**: Actionable recommendations and best practices
-- **Current Information**: Based on latest cybersecurity research and industry standards
-- **Structured Format**: Well-organized with clear headings and navigation
-
-## Document Structure
-
-The report follows a logical structure:
-
-1. **Executive Summary** - High-level overview of threats and findings
-2. **Introduction** - Context and scope of network security threats
-3. **Primary Threats** - Detailed analysis of DoS, MITM, and spoofing attacks
-4. **Additional Threats** - Other common security vulnerabilities
-5. **Best Practices** - Comprehensive defense strategies
-6. **Case Studies** - Real-world attack examples and analysis
-7. **Conclusion** - Key takeaways and future considerations
-8. **References** - Authoritative sources and further reading
-
-## How to Use This Report
-
-- **Security Professionals**: Use as reference for threat analysis and mitigation planning
-- **Students**: Comprehensive learning resource for network security concepts
-- **Organizations**: Guidance for developing security policies and procedures
-- **Researchers**: Foundation for further cybersecurity research
-
 ## Key Takeaways
 
-1. **Defense in Depth**: Multiple security layers are essential
-2. **Proactive Security**: Continuous monitoring and assessment required
-3. **Human Factor**: User education critical for security success
-4. **Incident Response**: Preparation essential for minimizing impact
-5. **Evolving Threats**: Continuous adaptation to new attack methods
-
-## Contributing
-
-This report was created for educational and professional development purposes. For questions or suggestions, please refer to the comprehensive reference list included in the report.
-
-## Disclaimer
-
-This report is compiled for educational purposes based on publicly available cybersecurity research and industry best practices. Information is current as of August 2025.
-
----
-
-**Project**: OASIS InfoByte Internship - Domain Task #4  
-**Topic**: Research Report on Common Network Security Threats  
-**Deliverable**: Comprehensive documentation of network security threats and countermeasures
+1. **Defense in Depth**
+2. **Proactive Security**
+3. **Human Factor**
+4. **Incident Response**
+5. **Evolving Threats**
