@@ -2,15 +2,15 @@
 
 ## Table of Contents
 
-[Introduction](#Intro)
-[Denial of Service (DoS) Attacks](#denial-of-service-dos-attacks)
-[Man-in-the-Middle (MITM) Attacks](#man-in-the-middle-mitm-attacks)
-[Spoofing Attacks](#spoofing-attacks)
-[Additional Common Network Security Threats](#additional-common-network-security-threats)
-[Best Practices and Preventive Measures](#best-practices-and-preventive-measures)
-[Real-World Case Studies](#real-world-case-studies)
-[Conclusion](#conclusion)
-[References](#references)
+- [Introduction](#Intro)
+- [Denial of Service (DoS) Attacks](#denial-of-service-dos-attacks)
+- [Man-in-the-Middle (MITM) Attacks](#man-in-the-middle-mitm-attacks)
+- [Spoofing Attacks](#spoofing-attacks)
+- [Additional Common Network Security Threats](#additional-common-network-security-threats)
+- [Best Practices and Preventive Measures](#best-practices-and-preventive-measures)
+- [Real-World Case Studies](#real-world-case-studies)
+- [Conclusion](#conclusion)
+- [References](#references)
 
 ---
 
@@ -1078,3 +1078,4 @@ As technology advances, new threats will emerge:
 
 ---
 **This report is compoled on the basis of latest news and information as of August 6, 2025**
+
