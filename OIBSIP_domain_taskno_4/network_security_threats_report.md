@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-- [Introduction](#Intro)
+- [Introduction](#Introduction)
 - [Denial of Service (DoS) Attacks](#denial-of-service-dos-attacks)
 - [Man-in-the-Middle (MITM) Attacks](#man-in-the-middle-mitm-attacks)
 - [Spoofing Attacks](#spoofing-attacks)
@@ -14,7 +14,7 @@
 
 ---
 
-## Intro
+## Introduction
 
 Network security threats pose significant risks to organizations and individuals. This report examines the most prevalent network security threats like, DoS, Man-in-the-Middle, and spoofing. Each threat is analyzed in terms of its methodology, potential impact, and effective mitigation strategies. 
 The report also presents real-world examples and comprehensive preventive measures to help organizations strengthen their network security.
@@ -123,7 +123,7 @@ A Man-in-the-Middle (MITM) attack occurs when an attacker secretly intercepts an
 
 #### ARP Poisoning
 
-
+```
 Legitimate Communication:
 Client A (192.168.1.10) ↔ Router (192.168.1.1) ↔ Client B (192.168.1.20)
 
@@ -131,7 +131,7 @@ MITM Attack:
 Client A → Attacker → Router → Client B
          ↑                    ↑
     False ARP entries    False ARP entries
-
+```
 
 #### SSL Stripping
 
@@ -556,7 +556,7 @@ The battle against network security threats requires constant vigilance, continu
 
 ---
 
-*This report was compiled based on current cybersecurity research, industry best practices, and documented case studies. Information is current as of August 2025.*
+**This report is compoled on the basis of latest news and information as of August 6, 2025**
 
 ---
 
@@ -1079,5 +1079,6 @@ As technology advances, new threats will emerge:
 
 ---
 **This report is compoled on the basis of latest news and information as of August 6, 2025**
+
 
 
