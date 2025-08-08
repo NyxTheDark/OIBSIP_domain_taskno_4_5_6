@@ -3,4 +3,6 @@ This folder contain the Task number:
   - 5 : Research Report on Social Engineering Attacks
   - 6 : Research Report on the Importance of Patch Management
 
-Each folder contains their own readme and a detailed report based on my research and understanding.
+The report are detailed summary of findings and there prevention as well as some case study are included to for better understanding.
+
+The Data in the report are obtained from various sources that are mention is the reference section of each and the information is latest by August 7, 2025
