@@ -18,7 +18,8 @@
 
 Network security threats pose significant risks to organizations and individuals. This report examines the most prevalent network security threats like, DoS, Man-in-the-Middle, and spoofing. Each threat is analyzed in terms of its methodology, potential impact, and effective mitigation strategies. 
 The report also presents real-world examples and comprehensive preventive measures to help organizations strengthen their network security.
-**Note:** This report is based on the latest information available till **August 6, 2025**
+
+**Note:** This report is based on the latest information available till **August 6, 2025
 ---
 
 ## Denial of Service (DoS) Attacks
@@ -1078,4 +1079,5 @@ As technology advances, new threats will emerge:
 
 ---
 **This report is compoled on the basis of latest news and information as of August 6, 2025**
+
 
